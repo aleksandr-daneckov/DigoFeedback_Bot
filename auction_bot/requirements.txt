@@ -1,0 +1,12 @@
+aiogram
+aiohttp
+aioredis
+python-dotenv
+aiogram-dialog
+environs
+pyqiwi
+asyncpg
+APScheduler
+typing
+pyQiwiP2P
+psycopg2-binary

@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c3ab4403-0cf6-4034-846c-a35d64cbfd01" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keyboards/default/menu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keyboards/default/menu_admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keyboards/default/menu_close.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keyboards/inline/callback_datas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middlewares/big_brother.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/states/conditions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/db_api/postgresql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/misc/qiwi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/misc/sentinel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env.dist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/data/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handlers/errors/error_handler.py" beforeDir="false" afterPath="$PROJECT_DIR$/handlers/errors/error_handler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handlers/users/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/handlers/users/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handlers/users/echo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/handlers/users/help.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/handlers/users/start.py" beforeDir="false" afterPath="$PROJECT_DIR$/handlers/users/start.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keyboards/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/keyboards/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keyboards/default/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/keyboards/default/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loader.py" beforeDir="false" afterPath="$PROJECT_DIR$/loader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/middlewares/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/middlewares/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/middlewares/throttling.py" beforeDir="false" afterPath="$PROJECT_DIR$/middlewares/throttling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/states/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/states/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/misc/throttling.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/misc/throttling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/redis/consts.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/redis/consts.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1pPtjuaiijSpTSc9OzVWHOSMqNb" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.mappings&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.symlinks&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.date&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.permissions&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.size&quot;: &quot;false&quot;,
+    &quot;database.data.extractors.current.export.id&quot;: &quot;Comma-separated (CSV)_id&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/work/dental_bot&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;service.view.auto.scroll.to.source&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Aorus\Desktop" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Андрей\Desktop\auction_bot\utils\redis" />
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="F:\bot" />
+      <recent name="F:\bot\handlers\users" />
+      <recent name="F:\bot\data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.app">
+    <configuration name="items_id_seq.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="40efcd8e-b682-46e3-a65d-dc42a256570a/database/auction/schema/public/sequence/items_id_seq.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="udemy_course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="config" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="udemy_course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data/config.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="loader" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="udemy_course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loader.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="udemy_course" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/handlers/users" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/handlers/users/start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.config" />
+        <item itemvalue="Python.loader" />
+        <item itemvalue="Python.start" />
+        <item itemvalue="Database Script.items_id_seq.sql" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3ab4403-0cf6-4034-846c-a35d64cbfd01" name="Default Changelist" comment="" />
+      <created>1615096693235</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615096693235</updated>
+      <workItem from="1615096694993" duration="26450000" />
+      <workItem from="1615304899794" duration="16988000" />
+      <workItem from="1628365285849" duration="17000" />
+      <workItem from="1628404957766" duration="1193000" />
+      <workItem from="1629538242425" duration="492000" />
+      <workItem from="1629538754360" duration="2577000" />
+      <workItem from="1629666818385" duration="788000" />
+      <workItem from="1629706324596" duration="39064000" />
+      <workItem from="1629783632787" duration="54373000" />
+      <workItem from="1629879100579" duration="8177000" />
+      <workItem from="1629891116584" duration="8251000" />
+      <workItem from="1629962960013" duration="3300000" />
+      <workItem from="1629976574061" duration="14000" />
+      <workItem from="1629987156876" duration="613000" />
+      <workItem from="1629988547877" duration="42000" />
+      <workItem from="1630001398595" duration="13079000" />
+      <workItem from="1630053275364" duration="16208000" />
+      <workItem from="1630075231862" duration="28787000" />
+      <workItem from="1630130469944" duration="11040000" />
+      <workItem from="1630226574130" duration="30594000" />
+      <workItem from="1630315722659" duration="1194000" />
+      <workItem from="1630343836501" duration="11000" />
+      <workItem from="1630365313612" duration="1561000" />
+      <workItem from="1630403628875" duration="54000" />
+      <workItem from="1630410729219" duration="17000" />
+      <workItem from="1630501079269" duration="10029000" />
+      <workItem from="1630594428389" duration="2450000" />
+      <workItem from="1630683159661" duration="2125000" />
+      <workItem from="1630756684110" duration="33000" />
+      <workItem from="1630757681388" duration="1586000" />
+      <workItem from="1631654362813" duration="1653000" />
+      <workItem from="1633022706766" duration="538000" />
+      <workItem from="1633375287737" duration="1205000" />
+      <workItem from="1633460945820" duration="286000" />
+      <workItem from="1633461426358" duration="1426000" />
+      <workItem from="1633708087331" duration="26000" />
+      <workItem from="1633708397257" duration="951000" />
+      <workItem from="1634237341671" duration="1427000" />
+      <workItem from="1636473765778" duration="5444000" />
+      <workItem from="1637515458103" duration="36000" />
+      <workItem from="1637521586802" duration="721000" />
+      <workItem from="1639235915607" duration="21494000" />
+      <workItem from="1639297224270" duration="11277000" />
+      <workItem from="1639341619489" duration="3097000" />
+      <workItem from="1639410425525" duration="20618000" />
+      <workItem from="1639497536999" duration="15915000" />
+      <workItem from="1639671986797" duration="3177000" />
+      <workItem from="1639762951196" duration="4018000" />
+      <workItem from="1639938076038" duration="5315000" />
+      <workItem from="1640023031839" duration="9522000" />
+      <workItem from="1640099495240" duration="21109000" />
+      <workItem from="1640188809395" duration="13421000" />
+      <workItem from="1640204940766" duration="4148000" />
+      <workItem from="1640276328378" duration="15245000" />
+      <workItem from="1640359461668" duration="10793000" />
+      <workItem from="1640416998158" duration="23404000" />
+      <workItem from="1640504966010" duration="6542000" />
+      <workItem from="1640592894831" duration="30291000" />
+      <workItem from="1640707917129" duration="2878000" />
+      <workItem from="1640711478540" duration="15296000" />
+      <workItem from="1640795278911" duration="7768000" />
+      <workItem from="1640837492592" duration="1768000" />
+      <workItem from="1640877983372" duration="8351000" />
+      <workItem from="1640940398205" duration="14564000" />
+      <workItem from="1641049554737" duration="4847000" />
+      <workItem from="1641108975753" duration="8975000" />
+      <workItem from="1648148881277" duration="248000" />
+      <workItem from="1654635249078" duration="141000" />
+      <workItem from="1654635426066" duration="31000" />
+      <workItem from="1654639164428" duration="678000" />
+      <workItem from="1654649590679" duration="149000" />
+      <workItem from="1661457476786" duration="3435000" />
+      <workItem from="1661547701294" duration="2153000" />
+      <workItem from="1662365052707" duration="2722000" />
+      <workItem from="1664268188885" duration="33000" />
+      <workItem from="1666013475935" duration="8953000" />
+      <workItem from="1666293026836" duration="76000" />
+      <workItem from="1668341764231" duration="62000" />
+      <workItem from="1669632497206" duration="17926000" />
+      <workItem from="1669716664219" duration="76123000" />
+      <workItem from="1669991535441" duration="21134000" />
+      <workItem from="1670015244714" duration="15913000" />
+      <workItem from="1670139897265" duration="20328000" />
+      <workItem from="1670178429176" duration="418000" />
+      <workItem from="1670178903893" duration="1277000" />
+      <workItem from="1670361851445" duration="1265000" />
+      <workItem from="1670443906349" duration="64000" />
+      <workItem from="1686598652924" duration="3802000" />
+      <workItem from="1686684223249" duration="5242000" />
+      <workItem from="1686770311917" duration="1857000" />
+      <workItem from="1686772192296" duration="1787000" />
+      <workItem from="1686773999008" duration="3947000" />
+      <workItem from="1686858431512" duration="737000" />
+      <workItem from="1686859182873" duration="4382000" />
+      <workItem from="1686863642910" duration="2546000" />
+      <workItem from="1686944483758" duration="5945000" />
+      <workItem from="1687005207839" duration="6873000" />
+      <workItem from="1687027904590" duration="4955000" />
+      <workItem from="1687086937883" duration="9000" />
+      <workItem from="1687087137364" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/bot$encryption.coverage" NAME="encryption Coverage Results" MODIFIED="1630144389131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/do_mesta_bot$13.coverage" NAME="13 Coverage Results" MODIFIED="1640278776242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bot$conditions.coverage" NAME="conditions Coverage Results" MODIFIED="1629881986545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/states" />
+    <SUITE FILE_PATH="coverage/bot$456.coverage" NAME="456 Coverage Results" MODIFIED="1629841373798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crypt" />
+    <SUITE FILE_PATH="coverage/bot$12.coverage" NAME="12 Coverage Results" MODIFIED="1639415346930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bot$mailing.coverage" NAME="mailing Coverage Results" MODIFIED="1630004726386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/udemy_course$postgresql.coverage" NAME="postgresql Coverage Results" MODIFIED="1615147125536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils/db_api" />
+    <SUITE FILE_PATH="coverage/auction_bot$app.coverage" NAME="app Coverage Results" MODIFIED="1687030663946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bot$app.coverage" NAME="app Coverage Results" MODIFIED="1639511249504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/auction_bot$test.coverage" NAME="test Coverage Results" MODIFIED="1669722915927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/do_mesta_bot$12.coverage" NAME="12 Coverage Results" MODIFIED="1640969901975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/do_mesta_bot$app.coverage" NAME="app Coverage Results" MODIFIED="1641130964138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/auction_bot$config.coverage" NAME="config Coverage Results" MODIFIED="1686687807584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/bot$decryption.coverage" NAME="decryption Coverage Results" MODIFIED="1630233486428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/auction_bot$start.coverage" NAME="start Coverage Results" MODIFIED="1686687604023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/handlers/users" />
+    <SUITE FILE_PATH="coverage/bot$big_brother.coverage" NAME="big_brother Coverage Results" MODIFIED="1633463072001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/middlewares" />
+    <SUITE FILE_PATH="coverage/udemy_course$app.coverage" NAME="app Coverage Results" MODIFIED="1615399551062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/auction_bot$loader.coverage" NAME="loader Coverage Results" MODIFIED="1686687733151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bot$8.coverage" NAME="8 Coverage Results" MODIFIED="1629835755689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crypt" />
+  </component>
+</project>
